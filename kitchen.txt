@@ -11,3 +11,7 @@ kitchen
 9. plates
 10. bowls
 11. food flasks
+12.coolers
+13.trays
+14.napkins
+15.apron
