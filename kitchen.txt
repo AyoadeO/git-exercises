@@ -6,3 +6,8 @@ kitchen
 4. pots
 5. gas cylinder
 6. kettle
+7. cups 
+8. spoons
+9. plates
+10. bowls
+11. food flasks
