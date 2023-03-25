@@ -1,0 +1,8 @@
+kitchen 
+
+1. knives
+2. forks
+3. jug
+4. pots
+5. gas cylinder
+6. kettle
